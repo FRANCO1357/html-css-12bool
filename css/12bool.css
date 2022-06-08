@@ -249,3 +249,9 @@
 .mg-5{
     margin: 50px;
 }
+
+/* HEIGHT */
+
+.lg-col{
+    height: 200px;
+}
