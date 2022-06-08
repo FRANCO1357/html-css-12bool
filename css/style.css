@@ -4,20 +4,19 @@ body{
     font-family: sans-serif;
     color: white;
 }
+h2{
+    color: black;
+    margin: 10px 0;
+}
 
 section{
     margin-bottom: 50px;
-}
-
-.row{
-    background-color: black;
 }
 
 .row > [class^='col']{
     background-color: dodgerblue;
     min-height: 50px;
     border: 1px solid white;
-    padding: 10px;
 }
 
 .row .row > [class^='col']{
